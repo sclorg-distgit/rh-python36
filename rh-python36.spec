@@ -24,7 +24,7 @@
 Summary: Package that installs %scl
 Name: %scl_name
 Version: 2.0
-Release: 1%{?dist}
+Release: 1.bs1%{?dist}
 License: GPLv2+
 Source0: macros.additional.%{scl}
 Source1: README
